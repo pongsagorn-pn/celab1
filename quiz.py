@@ -3,5 +3,4 @@ total = 0
 for score in scores:
     total = total + score
 print(f"total score {total}")
-
 print(f"max {max(scores)}")
